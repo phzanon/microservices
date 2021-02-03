@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso MicroServiços.iml" filepath="$PROJECT_DIR$/.idea/Curso MicroServiços.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loja/Loja.iml" filepath="$PROJECT_DIR$/Loja/Loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor.iml" />
+    </modules>
+  </component>
+</project>
